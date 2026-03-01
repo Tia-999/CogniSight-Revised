@@ -1,0 +1,11 @@
+datasets
+transformers>=4.30.0
+torch
+tqdm
+scikit-learn
+matplotlib
+pandas
+streamlit
+openai
+python-dotenv
+numpy
